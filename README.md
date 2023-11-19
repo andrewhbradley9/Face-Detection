@@ -6,4 +6,4 @@ Here is me using it.
 <img width="906" alt="Screenshot 2023-11-19 at 11 33 45 AM" src="https://github.com/andrewhbradley9/Face-Detection/assets/117774014/1b1f3eb9-8d6f-4021-a2e6-7d40c9f8caa2">
 
 
-I had a great time building this project out. It's very simple in nature, yes also a fun learning experience and my first time working with computer vision.
+I had a blast working on this project. It's simple yet provided a fun learning experience, marking my first dive into computer vision.
